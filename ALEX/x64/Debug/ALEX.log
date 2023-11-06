@@ -1,0 +1,5 @@
+﻿  lexer.c
+C:\Users\K20\Desktop\ALEX\ALEX\lexer.c(16,28): warning C4013: 'err' undefined; assuming extern returning int
+C:\Users\K20\Desktop\ALEX\ALEX\lexer.c(97,22): warning C4013: 'strtod' undefined; assuming extern returning int
+C:\Users\K20\Desktop\ALEX\ALEX\lexer.c(139,18): warning C4013: 'strtol' undefined; assuming extern returning int
+  ALEX.vcxproj -> C:\Users\K20\Desktop\ALEX\x64\Debug\ALEX.exe
